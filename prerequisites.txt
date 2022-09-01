@@ -1,0 +1,5 @@
+requests:		pip install requests
+dotenv  :		pip install python-env
+prettytable:	pip install prettytable
+colorama:		pip install colorama
+xlsxwriter:	pip insrall xlsxwriter
